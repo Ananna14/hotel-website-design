@@ -32,7 +32,17 @@
     width: 200px;
     border: none;
 }
-h2::before{
+.team-text{
+    color: #495057;
+}
+.card-design{
+    height: 500px;
+    /* padding: 5px; */
+}
+.text-ul{
+    list-style: none;
+}
+/* h2::before{
     flex-grow: 1;
     height: 1px;
     content: "\a0";
@@ -40,4 +50,13 @@ h2::before{
     position: relative;
     top: 0.5em;
     margin: 5px 15px;
+} */
+.team-img{
+    background-attachment: fixed;
+    /* background-image: url(../logo-blue.png); */
+}
+.house-text{
+    color: #fff;
+    background-color: #3454d1;
+    padding: 0px 8px;
 }

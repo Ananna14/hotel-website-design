@@ -43,7 +43,7 @@ const Header = () => {
         <h5 className='para'>Your Property, Our Priority and From as low as $10 per day with limited time offer discounts</h5>
         {/* search-icon-added */}
       <div className="row">
-      <div className='d-flex justify-content-center my-5 col-lg-12'>
+      <div className='d-flex justify-content-center my-5'>
          {/* input-start */}
        <div>
           <input type="text" className='input-design p-4' name="" placeholder='Search for Homes by Address, City . . . .' id="" />
